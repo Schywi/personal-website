@@ -1,43 +1,49 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
-  }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
-  }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'Aparecida Nutritionist',
+    subtitle: 'A website to calculate the BMI of patients',
+    link: 'https://lucasm-aparecida-nutritionist.netlify.app/',
+    image: '/images/projects/aparecida.jpg',
+    date: '2020-02-28',
+    desc:
+        'A website to calculate the BMI of patients, '
+        + 'we should inform the the name, weight, height and the body fat percentage of the patients   '
+        + 'and the website calculates the BMI '
+        + 'and saves the data in the browser Storage.'
+    ,
   },
+  {
+    title: 'GitHub Explorer',
+    subtitle: 'GoStack Project',
+    link: 'https://lucasm-github-explorer.netlify.app/',
+    image: '/images/projects/githubexplorer.jpg',
+    date: '2020-05-20',
+    desc: 'Built in Rocketseat GoStack Bootcamp ,  '
+      + 'we can find informations of any github profile and repository by tapying the username  '
+      + 'and the repository name on the input, '
+      + 'for example: facebook/react ',
+  }, {
+    title: 'Twitter Homepage',
+    subtitle: 'Adapted from HTML,CSS project to React  ',
+    link: 'https://lucasm-homepage-twitter.netlify.app/',
+    image: '/images/projects/twitterhomepage.jpg',
+    date: '2020-06-12',
+    desc: 'React project developed during the flexbox course at Rocketseat '
+      + ' with Typescript and styled compontents.',
+  },
+  {
+    title: 'Apeperia Website',
+    subtitle: 'Developed during the web accessibility course at alura  ',
+    link: 'https://lucasm-apeperia.netlify.app/#',
+    image: '/images/projects/apeperia.jpg',
+    date: '2020-08-03',
+    desc: 'Developed during the web accessibility course at alura with HTML, CSS and Javascript,  '
+      + ' Apeperia Website is a fictional startup with an innovative way of buying  '
+      + 'and assembling mobile and web applications for small and medium businesses. '
+    ,
+  },
+
 ];
 
 export default data;

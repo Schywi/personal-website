@@ -12,17 +12,19 @@ const Nav = () => (
         <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>Lucas Miranda</h2>
+        <p><a href="mailto:lucasmirandoliveira@gmail.com">lucasmirandoliveira@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>, <a href="https://planet.com">Planet</a>, <a href="https://planetaryresources.com">Planetary Resources</a>, <a href="https://facebook.com">Facebook</a>, and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Lucas. I like building things.
+        I am a <a href="https://www7.fiemg.com.br/SENAI">Technical Course </a> Student at SENAI FIEMG,
+        I started studying programming logic at <a href="https://www.alura.com.br/">ALURA </a>  in 2019 and since then ,
+        I have been interested in the Front-end world.
+        So I focused on learning a little about CSS, HTML, SQL and the Javascripts
+        frameworks  React, Vue and Angular.
       </p>
       <ul className="actions">
         <li>

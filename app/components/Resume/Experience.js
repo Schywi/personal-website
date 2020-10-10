@@ -8,6 +8,7 @@ const Experience = ({ data }) => (
     <div className="link-to" id="experience" />
     <div className="title">
       <h3>Experience</h3>
+      <p>Note: I don't have any professional experience, so I'm searching for an internship.</p>
     </div>
     {data.map((job) => (
       <Job
