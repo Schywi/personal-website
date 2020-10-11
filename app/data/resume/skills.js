@@ -3,62 +3,62 @@
 
 const skills = [{
   title: 'Javascript',
-  competency: 4,
+  competency: 3,
   category: ['Web Development', 'Languages', 'Javascript'],
 },
 {
   title: 'Node.JS',
-  competency: 3,
+  competency: 2,
   category: ['Web Development', 'Javascript'],
 },
 {
   title: 'React',
-  competency: 3,
+  competency: 2,
   category: ['Web Development', 'Javascript'],
 },
 {
   title: 'Angular',
-  competency: 3,
+  competency: 1,
   category: ['Web Development', 'Javascript'],
 },
 {
   title: 'Vue',
-  competency: 3,
+  competency: 1,
   category: ['Web Development', 'Javascript'],
 },
 {
   title: 'MongoDB',
-  competency: 3,
+  competency: 1,
   category: ['Web Development', 'Databases'],
 },
 {
   title: 'SQLServer/MySQL/SQL',
-  competency: 4,
+  competency: 2,
   category: ['Web Development', 'Databases', 'Languages'],
 },
 {
   title: 'Express.JS',
-  competency: 2,
+  competency: 1,
   category: ['Web Development', 'Javascript'],
 },
 {
   title: 'Git',
-  competency: 3,
+  competency: 2,
   category: ['Tools'],
 },
 {
   title: 'Typescript',
-  competency: 2,
+  competency: 1,
   category: ['Web Development', 'Languages', 'Javascript'],
 },
 {
   title: 'HTML + SASS/SCSS/CSS',
-  competency: 3,
+  competency: 2,
   category: ['Web Development', 'Languages'],
 },
 {
   title: 'GraphQL',
-  competency: 2,
+  competency: 1,
   category: ['Web Development', 'Databases'],
 },
 
