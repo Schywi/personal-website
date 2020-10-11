@@ -36,7 +36,7 @@ const data = [
     title: 'Apeperia Website',
     subtitle: 'Developed during the web accessibility course at alura  ',
     link: 'https://lucasm-apeperia.netlify.app/#',
-    image: '/images/projects/apeperia.jpg',
+    image: './images/projects/apeperia.jpg',
     date: '2020-08-03',
     desc: 'Developed during the web accessibility course at alura with HTML, CSS and Javascript,  '
       + ' Apeperia Website is a fictional startup with an innovative way of buying  '
